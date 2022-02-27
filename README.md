@@ -1,12 +1,12 @@
 # Springboard Data Science Capstone Project
 
-  * Analyzed and visualized monthly/seasonal revenue, implemented hypothesis testing on monthly revenue through a permutation test
+  * Analyzed and visualized monthly/seasonal revenue, implemented **hypothesis testing** on monthly revenue through a **permutation test**
   
-  * Designed and analyzed A/B testing for a dummy promotional campaigns by simulating exponential distribution
+  * Designed and analyzed **A/B testing** for a dummy promotional campaigns by simulating exponential distribution
   
-  * Performed customer behavior analysis, including time cohort analysis and Recency/Frequency/Monetary Value/Tenure analysis
+  * Performed customer behavior analysis, including **time cohort analysis** and **Recency/Frequency/Monetary Value/Tenure analysis**
 
-  * Built a segmentation model using K-Means algorithm to identify customer profiles and provided recommendation
+  * Built a segmentation model using **K-Means algorithm** to identify customer profiles and provided recommendation
 
   * [Data Wrangling](https://github.com/lasayin/Online-Retail-Business-Analysis-and-Customer-Segmentation/blob/main/Data_Wrangling.ipynb)
   
